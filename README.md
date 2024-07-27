@@ -1,6 +1,6 @@
 # Button
 
-A button component for [MultiUI](https://github.com/ping/multiui).
+A button component for [MultiUI](https://github.com/multinite/multiui).
 
 ## Usage
 
