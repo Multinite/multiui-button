@@ -1,5 +1,6 @@
 {
   "name": "my-component",
+  "type": "module",
   "main": "./src/index.ts",
   "types": "./dist/index.d.ts",
   "scripts": {
